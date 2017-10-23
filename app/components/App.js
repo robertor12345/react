@@ -1,6 +1,7 @@
 import React from  'react';
 import {Component} from 'react'
-import {Button}from './Buttons'
+import {Button} from './Buttons'
+import {ForLoop} from './forloop'
 
 export class WebsiteHeader extends React.Component {
   
@@ -14,10 +15,9 @@ export class WebsiteHeader extends React.Component {
       <div>
       <p>{this.props.websitetitle}</p>
       <Button onClick={this.handleClick}/>
+      <ForLoop />
       </div>
   );
 
     }
   };
-
-export default WebsiteHeader;
