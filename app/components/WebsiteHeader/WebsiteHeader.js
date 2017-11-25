@@ -6,7 +6,7 @@ export class WebsiteHeader extends React.Component {
     render() {
 
     return (
-      <div>
+      <div className="WebsiteHeaderContainer">
       <p>{this.props.websitetitle}</p>
       </div>
   );

@@ -1,9 +1,16 @@
+/*NavigationBar.css*/
 .Bio {
     background-color: powderblue;
+    width:300px;
+    height:50px;
 }
 .Projects {
     color: blue;
+    width:300px;
+    height:50px;
 }
 .CV {
     color: red;
+    width:300px;
+    height:50px;
 }
