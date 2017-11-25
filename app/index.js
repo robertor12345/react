@@ -1,12 +1,11 @@
 var React= require('react');
 var ReactDOM= require('react-dom');
 
-import {WebsiteHeader} from './components/App';
+import {WebsiteHeader} from './components/WebsiteHeader/WebsiteHeader';
+import {WebpageContainer} from './components/WebpageContainer/WebpageContainer';
 
-var App =
-require('./components/App');
 
 ReactDOM.render(
     <WebsiteHeader websitetitle= "Roberto's online portfolio"/>,
-    document.getElementById('app')
+    <WebpageContainer/>
 );

@@ -10,7 +10,7 @@
 6 silly lifecycle react_website@1.0.0~prebuild: no script for prebuild, continuing
 7 info lifecycle react_website@1.0.0~build: react_website@1.0.0
 8 verbose lifecycle react_website@1.0.0~build: unsafe-perm in lifecycle true
-9 verbose lifecycle react_website@1.0.0~build: PATH: E:\nodejs\node_modules\npm\bin\node-gyp-bin;E:\react_website\node_modules\.bin;E:\cmder\bin;E:\cmder\vendor\conemu-maximus5\ConEmu\Scripts;E:\cmder\vendor\conemu-maximus5;E:\cmder\vendor\conemu-maximus5\ConEmu;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\GtkSharp\2.12\bin;E:\matlab\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;E:\nodejs\;C:\Users\Roberto\AppData\Roaming\Smilebox;C:\Users\Roberto\AppData\Local\Microsoft\WindowsApps;C:\Users\Roberto\AppData\Roaming\npm;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\share\vim\vim74;E:\cmder\
+9 verbose lifecycle react_website@1.0.0~build: PATH: E:\nodejs\node_modules\npm\bin\node-gyp-bin;E:\react_website\node_modules\.bin;E:\cmder\bin;E:\cmder\vendor\conemu-maximus5\ConEmu\Scripts;E:\cmder\vendor\conemu-maximus5;E:\cmder\vendor\conemu-maximus5\ConEmu;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\GtkSharp\2.12\bin;E:\matlab\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;E:\nodejs\;C:\Users\Roberto\WebsiteHeaderData\Roaming\Smilebox;C:\Users\Roberto\WebsiteHeaderData\Local\Microsoft\WindowsWebsiteHeaders;C:\Users\Roberto\WebsiteHeaderData\Roaming\npm;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\share\vim\vim74;E:\cmder\
 10 verbose lifecycle react_website@1.0.0~build: CWD: E:\react_website
 11 silly lifecycle react_website@1.0.0~build: Args: [ '/d /s /c', 'webpack' ]
 12 silly lifecycle react_website@1.0.0~build: Returned: code: 4294967295  signal: null
@@ -26,7 +26,7 @@
 14 verbose stack     at maybeClose (internal/child_process.js:920:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:230:5)
 15 verbose pkgid react_website@1.0.0
-16 verbose cwd E:\react_website\app
+16 verbose cwd E:\react_website\WebsiteHeader
 17 error Windows_NT 10.0.14393
 18 error argv "E:\\nodejs\\node.exe" "E:\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "run" "build"
 19 error node v6.11.4
