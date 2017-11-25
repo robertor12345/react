@@ -1,6 +1,6 @@
 import React from 'react';
 
-export class Button extends React.Component{
+export class NavigationBar extends React.Component{
 
     render(){
 

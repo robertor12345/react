@@ -1,6 +1,6 @@
 import React from  'react';
 import ReactDOM from 'react-dom';
-import {Button} from '../Buttons/Buttons'
+import {NavigationBar} from '../NavigationBar/NavigationBar'
 
 
 export class WebpageContainer extends React.Component {
@@ -12,7 +12,7 @@ export class WebpageContainer extends React.Component {
       render() {
   
       return (
-        <Button onClick={this.handleClick}/>
+        <NavigationBar onClick={this.handleClick}/>
     );
   
       }
